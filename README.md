@@ -10,3 +10,6 @@ If you don't log out, the app keeps you signed in when you close the app.
 
 ### Simple and small app
 This was made to practice sign in, sign up and sign out through Firebase and was my first time doing an mobile app and using swift.
+
+### Pods
+This project uses cocoapods, therefore it is better to have them installed. I added them on the repository so maybe this shouldn't make any trouble.
